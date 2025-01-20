@@ -1,7 +1,7 @@
-# Project Title
+# HTML Canvas
 
 ## Description
-A brief overview of the project, its purpose, and key features.
+Enjoy this fun little example of working with HSL, line thickness, and pathing in HTML canvas.
 
 ## Features
 - Feature 1
